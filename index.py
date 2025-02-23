@@ -1,6 +1,6 @@
 StudentGrade = {
     "Malaika" : {
-        "mathematics" : 15 ,
+        "mathematics" : 16 ,
         "Creative Arts" : 29 ,
         "French" : 20 ,
         "Social Studies"  : 21 ,
